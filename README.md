@@ -25,6 +25,7 @@ By the end of this lab, you will learn how to:
     import asyncio
     import shelve
     from bleak import BleakScanner
+    from time import strftime, gmtime, sleep
     ```
 
 ---
